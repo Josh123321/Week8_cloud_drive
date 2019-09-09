@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Week8_cloud_drive/static/css/main.6b2da687.chunk.css",
+    "main.js": "/Week8_cloud_drive/static/js/main.66be95cb.chunk.js",
+    "main.js.map": "/Week8_cloud_drive/static/js/main.66be95cb.chunk.js.map",
+    "runtime~main.js": "/Week8_cloud_drive/static/js/runtime~main.00a4e271.js",
+    "runtime~main.js.map": "/Week8_cloud_drive/static/js/runtime~main.00a4e271.js.map",
+    "static/js/2.8dffb8af.chunk.js": "/Week8_cloud_drive/static/js/2.8dffb8af.chunk.js",
+    "static/js/2.8dffb8af.chunk.js.map": "/Week8_cloud_drive/static/js/2.8dffb8af.chunk.js.map",
+    "index.html": "/Week8_cloud_drive/index.html",
+    "precache-manifest.bfa97a8ab516f9b8fef3b5a86939721c.js": "/Week8_cloud_drive/precache-manifest.bfa97a8ab516f9b8fef3b5a86939721c.js",
+    "service-worker.js": "/Week8_cloud_drive/service-worker.js",
+    "static/css/main.6b2da687.chunk.css.map": "/Week8_cloud_drive/static/css/main.6b2da687.chunk.css.map",
+    "static/media/logo.svg": "/Week8_cloud_drive/static/media/logo.d92bf6cb.svg",
+    "static/media/photo_user@2x.png": "/Week8_cloud_drive/static/media/photo_user@2x.fdec6789.png",
+    "static/media/search bar.svg": "/Week8_cloud_drive/static/media/search bar.e0e2aea1.svg"
+  }
+}
